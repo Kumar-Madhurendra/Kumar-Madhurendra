@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-madhurendra" alt="kumar-madhurendra" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce Application](https://github.com/Kumar-Madhurendra/E-Commerce-Application.git)
-
-- 🌱 I’m currently learning **Microservices**
-
-- 👯 I’m looking to collaborate on [File-Transfer-Application](https://github.com/Kumar-Madhurendra/File-Transfer-Application.git)
-
 - 👨‍💻 All of my projects are available at [https://heartfelt-platypus-afb55a.netlify.app](https://heartfelt-platypus-afb55a.netlify.app)
 
 - 📝 I regularly write articles on [Quora](Quora)
