@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Madhurendra</h1>
 <h3 align="center">A passionate FullStack developer from 🇮🇳</h3>
+ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-madhurendra&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-madhurendra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-madhurendra" alt="kumar-madhurendra" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://heartfelt-platypus-afb55a.netlify.app](https://heartfelt-platypus-afb55a.netlify.app)
 
 - 📝 I regularly write articles on [Quora](Quora)
 
