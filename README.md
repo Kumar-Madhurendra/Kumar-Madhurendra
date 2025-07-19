@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Quora](Quora)
 
-- 💬 Ask me about **react, Node.js, laravel, Html5, JavaScript**
+- 💬 Ask me about **React, Node.js, laravel, Html5, JavaScript**
 
 - 📫 How to reach me **kmadhurendra59@gmail.com**
 
